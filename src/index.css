@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.newcls {
+  background-color: blanchedalmond;
+}
+.nocal{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+.sab{
+  background-color: brown;
+}
